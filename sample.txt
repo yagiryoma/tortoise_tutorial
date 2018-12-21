@@ -8,3 +8,4 @@ add 変更をインデックスに登録する
 tutorial2から。PULLしないでPUSHしてみます。
 コンフリクトテスト4回目 - これはtutorialで修正 ＜ 同じ行を修正してみた From tutorial ＜ tutorial2でプッシュ後に、tutorialで修正してみた。今度はtutorialでマージされるはず。
 commitインデックスの状態を記録する
+pull リモートリポジトリの内容を取得する
