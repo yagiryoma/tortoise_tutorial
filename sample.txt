@@ -4,4 +4,4 @@ tutorial2を修正してみた
 add 変更をインデックスに登録する
 ハロー！tutorialから修正したよ
 ハロー！tutorialから修正したよ、もう一度！
-同じ行を修正してみた From tutorial ＜ tutorial2でプッシュ後に、tutorialで修正してみた。今度はtutorialでマージされるはず。
+コンフリクトテスト2回目 - これはtutorial2で修正 ＜ 同じ行を修正してみた From tutorial ＜ tutorial2でプッシュ後に、tutorialで修正してみた。今度はtutorialでマージされるはず。
