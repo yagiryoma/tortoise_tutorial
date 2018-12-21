@@ -3,3 +3,4 @@
 add 変更をインデックスに登録する
 ハロー！tutorialから修正したよ
 ハロー！tutorialから修正したよ、もう一度！
+tutorial2でプッシュ後に、tutorialで修正してみた。今度はtutorialでマージされるはず。
