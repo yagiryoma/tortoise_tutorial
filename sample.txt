@@ -10,3 +10,4 @@ tutorial2から。PULLしないでPUSHしてみます。
 commitインデックスの状態を記録する
 pull リモートリポジトリの内容を取得する
 ASUSノートPCから更新してpushしてみる。
+PULLリクエストをテストしてみる。
